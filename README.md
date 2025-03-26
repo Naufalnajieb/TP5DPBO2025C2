@@ -33,6 +33,7 @@ maka saya tidak melakukan kecurangan seperti yang telah dispesifikasikan. Aamiin
   <img src="https://github.com/user-attachments/assets/0135b94f-f0e7-4aee-b116-857d8f351e70" width="800">
   <img src="https://github.com/user-attachments/assets/59141421-b0f8-4409-afda-34f7b3c1e4ad" width="800">
   <img src="https://github.com/user-attachments/assets/7064f59b-99b2-46f4-a44d-c6660148b147" width="800">
+  <img src="https://github.com/user-attachments/assets/70d12491-53f3-4294-948d-e7e61aeaec21" width="800">
   
 **4. Ketika Ada Data Yang Kosong**  
 
